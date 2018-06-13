@@ -1,0 +1,6 @@
+Noise%		Depth	    Total Nodes	   Terminal Nodes  Training Error     Test Error
+0		86		1649		680		0.7		25.625
+0.5		86		1641		672		0.7		27.5
+1		86		1742		687		0.7		25.35
+5		86		1978		701		0.8		26.4
+10		86		2636		736		0.8		31.625

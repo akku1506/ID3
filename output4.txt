@@ -1,0 +1,13 @@
+Effect of number of trees in the forest on train and test accuracies
+
+Number of trees	    Training Error	   Testing Error
+5			34.4			26.35
+10			38			26.475
+15			41			32.175
+20			36			21.45
+25			37.8			25.75
+30			37.8			27.65
+35			39.6			29.125
+40			38.3			29.425
+45			38.1			27.025
+50			38.7			28.525
